@@ -44,6 +44,18 @@ A mobile application for Saffron House Restaurant that allows customers to brows
 | StyleSheet | Styling |
 
 ---
+## 🔑 Login Credentials
+
+### Customer Accounts
+| Email | Password |
+|-------|----------|
+| salah@email.com | salah123 |
+| wali@email.com | wali123 |
+
+### Manager Account
+| Email | Password |
+|-------|----------|
+| manager@restaurant.ae | manager123 |
 
 ## 🚀 Installation
 
